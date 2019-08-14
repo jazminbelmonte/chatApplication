@@ -1,0 +1,3 @@
+[2019-08-11 15:20:09] slim-app.INFO: tweet-away '/' GET route [] {"uid":"2c153a2"}
+[2019-08-14 04:07:46] slim-app.INFO: tweet-away '/' GET route [] {"uid":"6974df5"}
+[2019-08-14 04:07:46] slim-app.INFO: tweet-away '/' POST route [] {"uid":"5df8469"}
